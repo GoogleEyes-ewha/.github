@@ -13,6 +13,8 @@ Its primary goal is to serve as an **eye** for the blind.
 Hearo uses **Google AI** to provide oral descriptions of product nutrition fact images and to summarize product reviews. <br>
 This initiative aims to **improve the overall shopping experience** for individuals with visual impairments.
 
+## 🖥️ Live Demo
+Experience Hearo right now 👉🏻 [Click here!](https://hearo-hmuri.vercel.app/login)
 
 ## 🎯 Hearo's Goal
 <p align="center">
